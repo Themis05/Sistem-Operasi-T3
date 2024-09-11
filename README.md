@@ -13,8 +13,7 @@
 <img src = https://github.com/user-attachments/assets/26e59b12-9d86-4ce9-8ecd-baf61821bc13 width=500>
 
 
-# 4. Ubahlah ijin akses file dataku pada sub direktori januari sehingga group dan others 
-dapat melakukan write. 
+# 4. Ubahlah ijin akses file dataku pada sub direktori januari sehingga group dan others dapat melakukan write. 
 <img src = https://github.com/user-attachments/assets/2b852c1f-2ffa-4567-b77b-fbde8f2042f9 width=500>
 
 # 5. Ubahlah ijin akses file dataku pada sub direktori pebruari sehingga user dapat melakukan baik write, read maupun execute, tetapi group dan others hanya bisa read dan execute
